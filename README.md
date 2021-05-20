@@ -16,9 +16,9 @@ There are a number of key use cases that are enabled by this project.
 
 The API and controllers provide the function for cluster registration and manifests delivery to clusters. Simple core functions connect clusters, such as the klusterlet, to the hub. Other components run on this base. The following repositories describe the API and controllers for registration:
 
-* https://github.com/open-cluster-management/api
-* https://github.com/open-cluster-management/registration
-* https://github.com/open-cluster-management/work
+* https://github.com/open-cluster-management-io/api
+* https://github.com/open-cluster-management-io/registration
+* https://github.com/open-cluster-management-io/work
 
 ### Delivery, upgrade, and configuration of applications on Kubernetes clusters
 
@@ -29,12 +29,8 @@ The application model defines a Kubernetes-first way of describing the applicati
 
 The following repositories describe the underlying API and controllers for the app model:
 
-* https://github.com/open-cluster-management/multicloud-operators-subscription
-* https://github.com/open-cluster-management/multicloud-operators-placementrule
-* https://github.com/open-cluster-management/multicloud-operators-subscription-release
-* https://github.com/open-cluster-management/multicloud-operators-channel
-
-There are demonstrations available at https://github.com/open-cluster-management/demo-subscription-gitops .
+* https://github.com/open-cluster-management-io/multicloud-operators-subscription
+* https://github.com/open-cluster-management-io/multicloud-operators-channel
 
 ### Deployment images
 
@@ -55,5 +51,5 @@ See the following options to connect with the community:
  - [Website](https://open-cluster-management.io)
  - [Slack](https://kubernetes.slack.com/archives/C01GE7YSUUF)
  - [Mailing group](https://groups.google.com/g/open-cluster-management)
- - [Community meetings](https://github.com/open-cluster-management/community#community-meetings)
+ - [Community meetings](https://github.com/open-cluster-management-io/community#community-meetings)
  - [YouTube channel](https://www.youtube.com/channel/UC7xxOh2jBM5Jfwt3fsBzOZw)

@@ -96,4 +96,4 @@ The project team has chosen to defer a new Slack team until we get enough critic
 
 ## Security Response
 
-Please see https://github.com/open-cluster-management/community/blob/master/SECURITY.md.
+Please see https://github.com/open-cluster-management-io/community/blob/master/SECURITY.md.
