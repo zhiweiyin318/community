@@ -1,5 +1,4 @@
-
-## Open Cluster Management
+![image](assets/ocm-logo.png)
 
 Welcome! The open-cluster-management.io project is focused on enabling end-to-end visibility and control across your Kubernetes clusters.
 
@@ -25,7 +24,7 @@ The API and controllers provide the function for cluster registration and manife
 * Centrally create, update, and delete Kubernetes clusters across multiple private and public clouds.
 * Automatically deploy applications to specific clusters by subscribing to different workload (resource) channels, such as GitHub, Helm repository, ObjectStore, and resource templates.
 
-The application model defines a Kubernetes-first way of describing the application. Your existing Kubernetes apps or `kustomized` apps can be adapted with the addition of a few new objects: `Channel`, `Subscription`, and `PlacementRule`. Changes made to the app are then easily delivered to managed clusters based on the dynamic placement engine.
+The application model defines a Kubernetes-first way of describing the application. Your existing Kubernetes apps or `kustomized` apps can be adapted with the addition of a few new objects: `Channel`, and `Subscription`. Changes made to the app are then easily delivered to managed clusters based on the dynamic placement engine.
 
 The following repositories describe the underlying API and controllers for the app model:
 
